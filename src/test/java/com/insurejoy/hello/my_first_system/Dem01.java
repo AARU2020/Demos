@@ -7,6 +7,10 @@ public class Dem01 {
 @Test  
 public void sum() {  
 System.out.print("Sum method");  
+System.out.print("Sum2 method"); 
+System.out.print("Sum3 method"); 
+System.out.print("Sum4 method"); 
+System.out.println("y2 methods");
 int p=10;  
 int q=20;  
 Assert.assertEquals(30, p+q);  
