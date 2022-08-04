@@ -40,6 +40,7 @@ System.out.println("We are currently on the following URL" +driver.getCurrentUrl
 public void login()
 {
 	System.out.println(Hello);
+	System.out.println("welcome to americas");
 }
 
 @Test(description="This method validates the sign up functionality")
