@@ -35,6 +35,13 @@ driver.findElement(By.id("signupModalButton")).click();
 System.out.println("We are currently on the following URL" +driver.getCurrentUrl());
 }
 
+@Test
+
+public void login()
+{
+	System.out.println(Hello);
+}
+
 @Test(description="This method validates the sign up functionality")
 public void signUp()
 {
